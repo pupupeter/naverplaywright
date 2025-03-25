@@ -24,8 +24,8 @@ pip install python-dotenv
 ### 3. `.env` 파일 설정
 프로젝트 디렉토리에 `.env` 파일을 생성하고 `LINE_EMAIL` 및 `LINE_PASSWORD`를 입력합니다.
 ```env
-LINE_EMAIL=당신의 Line 계정
-LINE_PASSWORD=당신의 Line 비밀번호
+LINE_EMAIL=Line 계정
+LINE_PASSWORD= Line 비밀번호
 ```
 
 ## 사용 방법
