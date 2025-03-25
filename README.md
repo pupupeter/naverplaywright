@@ -1,5 +1,11 @@
 # Naver 자동 로그인 및 검색 자동화(연습)
 
+## Demo 
+
+[Demo](https://youtu.be/iFM9xq0-B3E?si=dRJV14-oybtw_2R1)
+
+
+
 ## 소개
 이 스크립트는 `Playwright`를 사용하여 Naver에 자동 로그인하고 `Line` 계정을 통해 로그인합니다. 로그인에 성공하면 `peter-0512`을 검색하고 블로그 페이지로 이동한 후 50초 후에 브라우저를 종료합니다.
 
